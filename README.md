@@ -24,3 +24,5 @@ App
 `shiny run app.py`
 
 Model paths and datasets are included!
+
+For the model weights and data too large for Github, please contact author
